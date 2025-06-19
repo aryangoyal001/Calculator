@@ -34,10 +34,20 @@ Features include:
 - index.js → The logics,functions and ideas.  
 - README.md → This description file
 
+## Demo
+
+Check out the live demo [here](https://aryangoyal001.github.io/calculator/).
+
+---
 ## Author
 
 *Aryan Goyal*  
 Web Development Intern at @ CodSoft
+
+---
+## Contact
+
+For any inquiries or suggestions, please contact [aryangoyal2352007@gmail.com].
 
 ---
 
