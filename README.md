@@ -9,7 +9,7 @@ This is my *third task* for the *CodSoft Web Development Internship*.
 I created a *basic web-based calculator* using *HTML, **CSS, and **JavaScript*.  
 The application allows users to perform basic arithmetic operations(+,-,*,/) with a responsive and clear user interface.
 
-Features include:
+## Features include:
 
 - Number and operator input
 - All Clear (AC) and Clear Entry (CE) functions
